@@ -1,3 +1,4 @@
-![my logo](<img width="1024" height="512" alt="MatthewGri" src="https://github.com/user-attachments/assets/2dd29072-6eb8-4436-83ba-2c88c4f1a54b" />)
+<img width="1024" height="512" alt="MatthewGri" src="https://github.com/user-attachments/assets/7b05516c-e5de-4da2-ab6e-46572dc788ad" />
+
 # Hey there, I'm Matthew
 ## I'm trying to make my homepage
